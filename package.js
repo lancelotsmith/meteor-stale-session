@@ -1,7 +1,7 @@
 Package.describe({
     name:    'zuuk:stale-session',
     summary: 'Stale session and session timeout handling for meteorjs',
-    git:     "https://github.com/lindleycb/meteor-stale-session.git",
+    git:     "https://github.com/lancelotsmith/meteor-stale-session.git",
     version: "1.0.8"
 });
 
